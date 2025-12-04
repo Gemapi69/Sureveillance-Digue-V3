@@ -1,4 +1,4 @@
-const CACHE_NAME = 'surveillance-digue-v3';
+const CACHE_NAME = 'se-vaulx-en-velin-v1';
 const urlsToCache = [
   './',
   './index.html',
